@@ -17,7 +17,7 @@ The table below stores data for a library's checkout system. Identify every norm
 
 **Your answer:**
 
----
+The 
 
 ## Question 2
 
